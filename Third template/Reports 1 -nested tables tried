@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" >
+  <head>
+    <meta charset="utf-8">
+    <title>Reports</title>
+    <style media="screen">
+ table ,tr,td,a,img,p{
+   border :1px solid black;
+ }
+    </style>
+  </head>
+  <body>
+    <table width="618" align="center" style="border-collapse:collapse;">
+      <thead>
+        <tr>
+          <td>
+          <img src="imported-layers.png" alt="LOGO" align="left">
+        </td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom:3px solid grey">
+          <td align="center" style="font-family: Helvetica;font-size:24px;letter-spacing:0px;color:black;padding-top:65px;padding-bottom:37px;">
+              Weekly Statistics
+          </td>
+        </tr>
+        <tr>
+          <td  style="padding:48px 0px;">
+            <p style="padding:0px 70px;margin:0px;font-family: Helvetica;font-size:18px  color: #3c3c3c;
+;letter-spacing:0px;color:black;">Hi Saranya!</p>
+            <p style="padding:0px 70px;padding-top:20px;margin:0px;font-family: Helvetica;font-size:16px;letter-spacing:0px;line-height:1.5;color:black;">Here's an weekly update on <a href="#" style="text-decoration:none;color:#30c0ca;">Mint Check University</a>, for the week of Apr 25 - May 02 2016.</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:0px 70px;background-color: #f9f9f9;"align="center" >
+            <img  valign="middle"style=""src="https://cdn.zeplin.io/59de1f633fed7a7ec333d574/assets/4712893A-079C-4EBB-9E65-23BDA86639A3.svg" alt="">
+            <p style="display:inline-block;font-family: Helvetica;font-size: 18px;text-align: right;color: #3c3c3c;">Total Statistics</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td> <img src="https://cdn.zeplin.io/59de1f633fed7a7ec333d574/assets/33629EBA-677F-4DAF-99A3-8D4D4C473B30.svg" alt=""> </td>
+                <td></td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
